@@ -1,0 +1,12 @@
+{
+  "name": "03-node-with-express",
+  "version": "0.0.0",
+  "description": "03NodeWithExpress",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4"  
+  },
+  "author": {
+    "name": "jange"
+  }
+}
